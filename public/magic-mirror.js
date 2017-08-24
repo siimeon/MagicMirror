@@ -17,8 +17,6 @@ class MagicMirror extends HTMLElement {
     super();
     this.appendChild(template.content.cloneNode(true));
     this.setupCamera();
-    console.log( window.screen.height* 2);
-    console.log( window.screen.width);
   }
 
   setupCamera() {
