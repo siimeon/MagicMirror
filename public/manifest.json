@@ -5,8 +5,8 @@
   "short_name": "Magic Mirror",
   "start_url": "https://magicmirror-db47d.firebaseapp.com/",
   "display": "standalone",
-  "background_color": "#FF5722",
-  "theme_color": "#FF5722",
+  "background_color": "#dd2c00",
+  "theme_color": "#dd2c00",
   "description": "Simple mirror",
   "icons": [{
     "src": "icons/ic_camera_enhance_black_48dp_2x.png",

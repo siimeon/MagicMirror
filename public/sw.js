@@ -1,4 +1,4 @@
-var CACHE_NAME = 'magic-mirror-cache-v7';
+var CACHE_NAME = 'magic-mirror-cache-v8';
 var urlsToCache = [
   '/',
   '/index.html',

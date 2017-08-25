@@ -8,6 +8,7 @@ template.innerHTML = `
       background: #222;
       margin: 0 0 20px 0;
       width: 100%;
+      margin-bottom: 0px;
     }
   </style>
 `;
